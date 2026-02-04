@@ -72,7 +72,6 @@ public:
 - JSON strings need special characters to be escaped
 - A quote `"` becomes `\"` so it doesn't break the JSON format
 - A newline becomes `\n` so it stays on one line in the JSON
-- Kind of sucks that it's not built into the language, but C++ is an old language.
 ---
 
 ### 3. Loading the .env File
