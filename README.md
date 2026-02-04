@@ -11,7 +11,7 @@ Python: 6472.56ms
 ```
 
 Adding concurrency is where youll see the speed differences. On one of my web pages, I have 5 APIs fetching concurrently in 
-Go.
+Go and the page takes about 7 seconds total to load.
 
 ## Overview
 
